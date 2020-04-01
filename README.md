@@ -1,2 +1,2 @@
 # CircleSoccer
-# Soccer shooting game
+Soccer shooting game
